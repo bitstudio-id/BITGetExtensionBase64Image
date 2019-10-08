@@ -13,7 +13,7 @@ composer require bitstudio-id/bitgetextensionbase64image
 - [Laravel >= 5.4](https://github.com/laravel/framework)
 
 ### How to use on controller
-add on top after <php?
+add on top after <?php
 ```
 use use BITStudio\BITGetExtensionBase64Image\GetExtension;
 ```
