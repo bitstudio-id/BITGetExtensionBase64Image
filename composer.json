@@ -1,0 +1,21 @@
+{
+    "name": "bitstudio-id/bitgetextensionbase64image",
+    "description": "How to get extension from base64 image laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tri Wardana",
+            "email": "mtriwardanaa@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4",
+        "laravel/framework": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "BITStudio\\BITGetExtensionBase64Image\\": "src/"
+        }
+    }
+}
